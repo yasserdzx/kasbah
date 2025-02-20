@@ -44,6 +44,7 @@ frozenlist
 fsspec
 gevent
 greenlet
+gunicorn
 gym-notices
 gymnasium
 h11
